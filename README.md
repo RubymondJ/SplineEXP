@@ -1,1 +1,1 @@
-「SplineEXP」の配布ページです。Release -> Assets からダウンロードができます。
+「SplineEXP」の配布ページです。[ここ](https://github.com/RubymondJ/SplineEXP/releases)からダウンロードができます。(Release->Assets)
